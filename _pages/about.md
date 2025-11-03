@@ -31,7 +31,7 @@ Research Experience
 Publications
 ======
 1. Thu Phuong Nguyen*, **Duc M. Nguyen\***, Hyotaek Jeon, Hyunwook Lee, Hyunmin Song, Sungahn Ko\*\*, and Taehwan Kim\*\*. “VEHME: A Vision Language Model For Evaluating Handwritten Mathematics Expressions”. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
-    * [🌐 Project Website](https://vehme.github.io), [💻 Code](https://github.com/phuongnt197/VEHME)
+    * [🌐 Project Website](https://vehme.github.io), [📄 Paper](https://aclanthology.org/2025.emnlp-main.1619.pdf), [💻 Code](https://github.com/phuongnt197/VEHME)
 
 1. Joohee Kim, Hyunwook Lee, **Duc M. Nguyen**, Minjeong Shin, Bum Chul Kwon, Sungahn Ko, and Niklas Elmqvist.
 “DG Comics: Semi-Automatically Authoring Graph Comics for Dynamic Graphs”. In IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.
