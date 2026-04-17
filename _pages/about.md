@@ -9,7 +9,7 @@ redirect_from:
 
 👋 Hello! I'm Duc, an AI researcher with a strong background in Large Language Models (LLMs) and Visualization. I'm currently advancing my expertise by pursuing a Master of Science in Artificial Intelligence at Pohang University of Science and Technology (POSTECH), after graduating with a Bachelor of Science in Computer Science and Engineering from the Ulsan National Institute of Science and Technology (UNIST).
 
-I am currently working as a Graduate Research Assistant at [Human-AI Interaction and Visualization](https://haiv.postech.ac.kr/) lab under supervision of professor Sungahn Ko, where I explore the intersections of natural language processing, visualization, and AI for mathematics. I've been fortunate enough to publish my research in top conferences like EMNLP, IEEE VIS, and ICML. When I'm not buried in research papers, you can find me playing League of Legends, listening to J-pop and watching movies. Feel free to reach out if you share similar interests or just want to chat about AI and its future!
+I am currently working as a Graduate Research Assistant at [Human-AI Interaction and Visualization](https://haiv.postech.ac.kr/) lab under supervision of professor Sungahn Ko, where I explore the intersections of natural language processing, visualization, and AI for mathematics. I've been fortunate enough to publish my research in top conferences like EMNLP, CHI, IEEE VIS, and ICML. When I'm not buried in research papers, you can find me playing League of Legends, listening to J-pop and watching movies. Feel free to reach out if you share similar interests or just want to chat about AI and its future!
 
 This website serves as a portfolio to share my projects, research, and professional journey. I am always open to discussing new ideas, collaborations, and opportunities in the field of AI. Please feel free to connect with me or reach out at ducnm@postech.ac.kr.
 
@@ -30,6 +30,9 @@ This website serves as a portfolio to share my projects, research, and professio
 
 # Publications
 ---
+1. Joohee Kim, Sungbeon Cho, **Duc M. Nguyen**, Jaehyeong Jeon, Minjeong Shin, and Sungahn Ko. “Here, Let Me Help: An Empirical Study of User Interventions in Human–Web Agent Collaboration”. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), 2026. **(🏆 Honorable Mention)**
+    * [📄 Paper](https://dl.acm.org/doi/full/10.1145/3772318.3791536)
+
 1. Thu Phuong Nguyen*, **Duc M. Nguyen\***, Hyotaek Jeon, Hyunwook Lee, Hyunmin Song, Sungahn Ko\*\*, and Taehwan Kim\*\*. “VEHME: A Vision Language Model For Evaluating Handwritten Mathematics Expressions”. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
     * [🌐 Project Website](https://vehme.github.io), [📄 Paper](https://aclanthology.org/2025.emnlp-main.1619.pdf), [💻 Code](https://github.com/phuongnt197/VEHME)
 
