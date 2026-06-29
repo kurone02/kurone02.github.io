@@ -16,7 +16,7 @@ This website serves as a portfolio to share my projects, research, and professio
 # Education
 ---
 * M.S. in Artificial Intelligence, Pohang University of Science and Technology, 2027 (expected)
-  * GPA: 4.0/4.3
+  * GPA: 4.05/4.3
 * B.S. in Computer Science Engineering (Major) and Industrial Engineering (Minor), Ulsan National Institute of Science and Technology, 2024.
   * GPA: 4.02/4.3 (Summa Cum Laude)
   * Salutatorian
@@ -30,6 +30,9 @@ This website serves as a portfolio to share my projects, research, and professio
 
 # Publications
 ---
+1. **Duc M. Nguyen**, and Sungahn Ko. “VeraPhys: Verified Ensemble Repair for Multimodal Physics Reasoning”. In AI4Math Workshop at the International Conference on Machine Learning (ICML), 2026.
+    * [📄 Paper](https://openreview.net/forum?id=miPLaKmnxe), [💻 Code](https://github.com/kurone02/veraphys)
+
 1. Joohee Kim, Sungbeon Cho, **Duc M. Nguyen**, Jaehyeong Jeon, Minjeong Shin, and Sungahn Ko. “Here, Let Me Help: An Empirical Study of User Interventions in Human–Web Agent Collaboration”. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), 2026. **(🏆 Honorable Mention)**
     * [📄 Paper](https://dl.acm.org/doi/full/10.1145/3772318.3791536)
 
