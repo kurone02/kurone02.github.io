@@ -9,7 +9,22 @@
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
-      tags: 'ams'
+      tags: 'ams',
+      macros: {
+        R: '\\mathbb{R}',
+        N: '\\mathbb{N}',
+        Z: '\\mathbb{Z}',
+        Q: '\\mathbb{Q}',
+        E: '\\mathbb{E}',
+        Pp: '\\mathbb{P}',
+        F: '\\mathcal{F}',
+        B: '\\mathcal{B}',
+        ind: '\\mathbf{1}',
+        abs: ['\\left|#1\\right|', 1],
+        Var: '\\operatorname{Var}',
+        Cov: '\\operatorname{Cov}',
+        norm: ['\\left\\lVert #1 \\right\\rVert', 1]
+      }
     }
   };
 </script>
