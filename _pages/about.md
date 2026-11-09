@@ -15,9 +15,9 @@ This website serves as a portfolio to share my projects, research, and professio
 
 # Education
 ---
-* M.S. in Artificial Intelligence, Pohang University of Science and Technology, 2027 (expected)
+* Ph.D. in Artificial Intelligence, Pohang University of Science and Technology, (2025 -- Present).
   * GPA: 4.05/4.3
-* B.S. in Computer Science Engineering (Major) and Industrial Engineering (Minor), Ulsan National Institute of Science and Technology, 2024.
+* B.S. in Computer Science Engineering (Major) and Industrial Engineering (Minor), Ulsan National Institute of Science and Technology (2020 -- 2024).
   * GPA: 4.02/4.3 (Summa Cum Laude)
   * Salutatorian
   * Thesis: *Automated Math Reasoning: Solving Optimization Problems with Open Source Large Language Model*
